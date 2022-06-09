@@ -1,0 +1,80 @@
+
+.app{
+
+}
+.imageWrapper{
+    padding-top: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.logo{
+    width: 40%;
+}
+
+.titleDiv{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.title{
+    color: #fff;
+}
+.inputsWrapper{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.inputs{
+    width: 70%;
+}
+
+.hideBlock{
+    display: none;
+}
+.buttonWrapper{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.button{
+    background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+
+    padding: 10px 30px;
+    background: white;
+    border: 2px solid #fff;
+    color: black;
+    transition: .3s;
+}
+/* .button:focus, .button:hover{
+    background: #fff;
+    color: black;
+} */
+
+.lastTextWrapper{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.lastTextBox{
+    width: 80%;
+    text-align: center;
+}
+
+.lastText{
+    color: rgb(173, 164, 164);
+    font-size: larger;
+}
+.lastTextSend{
+    font-weight:600;
+    font-style: italic;
+    font-size: large;
+}
